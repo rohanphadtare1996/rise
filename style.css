@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: linear-gradient(180deg, #071022, #091a28);
+  color: #e6f0f6;
+  text-align: center;
+}
+
+.hero {
+  padding: 60px 20px;
+}
+
+#logo {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 10px 0;
+  color: #f6b93b;
+}
+
+.tag {
+  color: #8ea1b1;
+  margin-bottom: 30px;
+}
+
+.price-card {
+  background: #101828;
+  padding: 20px;
+  border-radius: 12px;
+  display: inline-block;
+  color: #f6b93b;
+  margin-bottom: 30px;
+}
+
+.links a {
+  color: #cfe8ff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.about {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #a0aaba;
+}
