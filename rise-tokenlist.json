@@ -1,0 +1,17 @@
+{
+  "name": "Rise Official Token List",
+  "logoURI": "https://raw.githubusercontent.com/rohanphadtare1996/rise/main/logo.png",
+  "keywords": ["rise", "oracle", "crypto", "defi"],
+  "timestamp": "2025-11-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xEB8f224a99423Bba0bb9c8dd35ea5e4a1e1f5371",
+      "name": "Rise",
+      "symbol": "RISE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rohanphadtare1996/rise/main/logo.png"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
